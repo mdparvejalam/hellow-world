@@ -1,4 +1,4 @@
 
-public static void main(arr[]){
+public static void main(args[]){
 System.out.println("hellow wrod");
 }
